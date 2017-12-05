@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "atlanta-webGL-alpha005.data.unityweb",
+"asmCodeUrl": "atlanta-webGL-alpha005.asm.code.unityweb",
+"asmMemoryUrl": "atlanta-webGL-alpha005.asm.memory.unityweb",
+"asmFrameworkUrl": "atlanta-webGL-alpha005.asm.framework.unityweb",
+"backgroundUrl": "atlanta-webGL-alpha005.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
