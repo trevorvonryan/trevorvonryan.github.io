@@ -1,10 +1,15 @@
 {
-"TOTAL_MEMORY": 268435456,
+"companyName": "Trevor Von Ryan",
+"productName": "ATLANTA-WebGL",
 "dataUrl": "atlanta-webGL-alpha005.data.unityweb",
 "asmCodeUrl": "atlanta-webGL-alpha005.asm.code.unityweb",
 "asmMemoryUrl": "atlanta-webGL-alpha005.asm.memory.unityweb",
 "asmFrameworkUrl": "atlanta-webGL-alpha005.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
 "backgroundUrl": "atlanta-webGL-alpha005.jpg",
 "splashScreenStyle": "Dark",
-"backgroundColor": "#FFFFFF"
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"dataUrl": "must-revalidate"}
 }
